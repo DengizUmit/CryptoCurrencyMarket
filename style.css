@@ -1,0 +1,40 @@
+header{
+    background-color: blanchedalmond;
+}
+
+.home{
+    background-color:white;
+    padding: 1rem;
+    margin: 5rem;
+}
+
+.navbar{
+    color: wheat;
+    text-align: center;
+    padding: 1.5rem;
+    text-decoration: underline;
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.navbar ul li:hover{
+    background-color: darkorange;
+    border-radius: 7px;
+}
+
+.categories{
+    color: lightseagreen;
+    text-align: center;
+    padding: 3rem;
+    display: grid;
+}
+
+section{
+    text-align: center;
+    background-color:darkorange;
+    padding: 1rem;
+}
+
+h1{
+    background-color: white;
+}
